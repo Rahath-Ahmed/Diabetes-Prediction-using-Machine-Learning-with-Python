@@ -1,16 +1,16 @@
-# Diabetes Prediction System 🩺🔍
+# Diabetes Prediction System
 
 This project uses **Machine Learning** to predict whether a person is diabetic or not based on various health indicators. The model is trained on the **PIMA Indian Diabetes Dataset** and utilizes a **Support Vector Machine (SVM)** classifier.
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 The goal is to create a model that can accurately identify individuals who are at risk of diabetes based on medical input data. Early prediction of diabetes can support timely treatment and improved health outcomes.
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - **Dataset**: PIMA Indian Diabetes Dataset  
 - **Source**: [Kaggle - PIMA Indian Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
@@ -30,7 +30,7 @@ The goal is to create a model that can accurately identify individuals who are a
 
 ---
 
-## 🧰 Technologies & Libraries
+## Technologies & Libraries
 
 - Python  
 - Pandas  
@@ -39,7 +39,7 @@ The goal is to create a model that can accurately identify individuals who are a
 
 ---
 
-## 🚀 Workflow
+## Workflow
 
 1. Import Dependencies  
 2. Load Dataset  
@@ -56,7 +56,7 @@ The goal is to create a model that can accurately identify individuals who are a
 
 ---
 
-## ✅ Results
+## Results
 
 - **Training Accuracy**: ~79%  
 - **Test Accuracy**: ~77%  
@@ -65,26 +65,26 @@ The goal is to create a model that can accurately identify individuals who are a
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone or download this repository.
 2. Ensure the dataset (`diabetes.csv`) is accessible in your environment.
 3. Run the notebook using Jupyter or Google Colab.
 
-📁 **Dataset link**:  
+**Dataset link**:  
 [Download diabetes.csv](https://drive.google.com/file/d/1xm4sYWf8ItSWnztVF4FcDCh-YtuKNzLn/view?usp=drive_link)
 
 > Modify the file path in the notebook to match your environment if needed.
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Try alternative classification algorithms (e.g., Random Forest, Logistic Regression, XGBoost)  
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Kaggle: PIMA Indian Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)  
 - Scikit-learn documentation and the open-source Python community
